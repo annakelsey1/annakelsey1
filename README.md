@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Anna Kelsey!  
 
-<!--
-**annakelsey1/annakelsey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a student at Brigham Young University - Idaho, pursuing a **BS in Professional Studies** (Expected Graduation: April 2026).
+I'm just finishing up my first coding certificate, and am about to start working on my second one as part of my BS degree.
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+- 📍 Based in Utah  
+- 🎯 Passionate about **research, data analysis, and technology**  
+- 💼 Experience in **customer outreach, process improvement, and technical support**  
+- 🎓 Learning **C#, HTML, CSS, and more**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools  
+- **Programming:** C# (beginner), HTML, CSS  
+- **Software:** Microsoft Suite (Outlook, Excel, Word, Teams), Salesforce, Calendly  
+- **Other:** Communication, problem-solving, organization  
+
+Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me.  
