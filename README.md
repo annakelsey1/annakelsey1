@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anna Kelsey!  
 
-Welcome to my GitHub! I'm a student at Brigham Young University - Idaho, pursuing a **BS in Professional Studies** (Expected Graduation: April 2026).
-I'm just finishing up my first coding certificate, and am about to start working on my second one as part of my Software Development degree.
+Welcome to my GitHub! I'm a student at Brigham Young University - Idaho, pursuing a **BS in Software Development** (Expected Graduation: April 2026).
+I'm just finishing up my first coding certificate, and am about to start working on my second one as part of my degree.
 
 ## 🌟 About Me  
 - 📍 Based in Utah  
