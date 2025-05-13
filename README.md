@@ -11,7 +11,7 @@ I'm just finishing up my first coding certificate, and am about to start working
 
 ## 🚀 Skills & Tools  
 - **Programming:** C# (beginner), HTML, CSS  
-- **Software:** Microsoft Suite (Outlook, Excel, Word, Teams), Salesforce, Calendly  
+- **Software:** MYSQL, MongoDB, VS Cosde, Microsoft Suite (Outlook, Excel, Word, Teams), Salesforce, Calendly  
 - **Other:** Communication, problem-solving, organization  
 
 Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me.  
